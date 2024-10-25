@@ -1,0 +1,29 @@
+*{
+
+}
+.nosifer {
+    font-family: "Nosifer", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 80px;
+    text-align: center;
+    color: white;
+}
+
+.eater-regular {
+    font-family: "Eater", serif;
+    font-weight: 400;
+    font-style: normal;
+    text-align: center;
+    padding-top: 200px;
+    color: white;
+    font-size: 30px;
+}
+
+body {
+    background-image: url(halloweenbackground.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+
